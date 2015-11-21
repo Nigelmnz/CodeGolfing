@@ -1,0 +1,1 @@
+l=1;r=2;s=0;while(l<4000000){if(l%2==0)s+=l;t=r+l;l=r;r=t};print(s)
